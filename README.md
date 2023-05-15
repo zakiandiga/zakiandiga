@@ -5,9 +5,9 @@ A game developer/designer with years of professional production/project manageme
 
 ### :hammer_and_wrench: Tools for Trades
 <div>
-  <img src="Icons/U_ProfileIcon_Positive_500x500.png" title="Unity" alt="Unity" width="40" height="40"/>
-  <img src="Icons/UE_Logo_icon-only_white.png" title="Unreal" alt="Unreal" width="40" height="40"/>
-  <img src="Icons/blender_icon_64x64.png" title="Blender" alt="Blender" width="40" height="40"/>
+  <img src="Icons/U_ProfileIcon_Positive_500x500.png" title="Unity" alt="Unity" width="40" height="40"/> |
+  <img src="Icons/UE_Logo_icon-only_white.png" title="Unreal" alt="Unreal" width="40" height="40"/> |
+  <img src="Icons/blender_icon_64x64.png" title="Blender" alt="Blender" width="40" height="40"/> |
   <img style="vertical-align:middle" src="Icons/FMOD Logo White - Black Background.png" title="FMOD" alt="FMOD" width="40"/>
 
 </div><br>
