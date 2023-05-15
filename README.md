@@ -5,16 +5,16 @@ A game developer/designer with years of professional production/project manageme
 
 ### :hammer_and_wrench: Tools for Trades
 <div>
-  <img src="Icons/U_ProfileIcon_Positive_500x500.png" title="Unity" alt="Unity" width="40" height="40"/> |
-  <img src="Icons/UE_Logo_icon-only_white.png" title="Unreal" alt="Unreal" width="40" height="40"/> |
-  <img src="Icons/blender_icon_64x64.png" title="Blender" alt="Blender" width="40" height="40"/> |
+  <img src="Icons/U_ProfileIcon_Positive_500x500.png" title="Unity" alt="Unity" width="40" height="40"/>
+  <img src="Icons/UE_Logo_icon-only_white.png" title="Unreal" alt="Unreal" width="40" height="40"/>
+  <img src="Icons/blender_icon_64x64.png" title="Blender" alt="Blender" width="40" height="40"/>
   <img style="vertical-align:middle" src="Icons/FMOD Logo White - Black Background.png" title="FMOD" alt="FMOD" width="40"/>
 
 </div><br>
 
 <div>
  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="C++ Logo"alt="C++ Logo" width="40"/>
- <img src="https://learn.microsoft.com/en-us/windows/images/csharp-logo.png" title="C# Logo" alt="C# Logo" width="50"/>&nbsp;
+ <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" title="C# Logo" alt="C# Logo" width="40"/>&nbsp;
 </div>
 
 ### :video_game: Links
