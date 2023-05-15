@@ -4,6 +4,9 @@
 A game developer/designer with years of professional production/project management experience.
 
 ### :hammer_and_wrench: Tools for Trades
+<div>
+  <img src="Icons/U_ProfileIcon_Positive_500x500.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+</div>
 
 ### :video_game: Links
 
