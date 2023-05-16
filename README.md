@@ -25,5 +25,9 @@ A game developer/designer with years of professional production/project manageme
 ### :fire: My Stats :
 
 <div>
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=vbobus&show_icons=true&locale=en&theme=midnight-purple) 
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=zakiandiga&show_icons=true&locale=en&theme=midnight-purple) 
+
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=zakiandiga&show_icons=true&locale=en&theme=midnight-purple) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zakiandiga&&theme=tokyonight)](https://git.io/streak-stats)
 </div>
