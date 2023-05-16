@@ -23,8 +23,7 @@ A game developer/designer with years of professional production/project manageme
 + [**My Game Design Documents Compilation**](https://app.milanote.com/1Nl8651I9p2Uda?p=VXErRkFthAc)<br>
 
 ### :fire: My Stats :
+
 <div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakiandiga&show_icons=true&locale=en&theme=midnight-purple) 
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=vbobus&show_icons=true&locale=en&theme=midnight-purple) 
 </div>
-
-
