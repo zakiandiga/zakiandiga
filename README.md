@@ -1,5 +1,4 @@
-# Zak
- 
+# Zak 
 ### Summary
 A game developer/designer with years of professional production/project management experience.
 
@@ -21,4 +20,14 @@ A game developer/designer with years of professional production/project manageme
 ### :video_game: Links
 
 + [**My Itch.io**](https://static.itch.io/images/logo-white-new.svg) <br>
-+ [**My Game Design Documents Compilation**](https://app.milanote.com/1Nl8651I9p2Uda?p=VXErRkFthAc) <br>
++ [**My Game Design Documents Compilation**](https://app.milanote.com/1Nl8651I9p2Uda?p=VXErRkFthAc)<br>
+
+### :fire: My Stats :
+<div>
+
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=zakiandiga&show_icons=true&locale=en&theme=tokyonight) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zakiandiga&&theme=tokyonight)](https://git.io/streak-stats)
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakiandiga&show_icons=true&locale=en&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
