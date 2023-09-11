@@ -19,8 +19,10 @@ A game developer/designer with years of professional production/project manageme
 
 ### :video_game: Links
 
++ [**Vlogs & Portfolio**](https://www.youtube.com/playlist?list=PLuAFsHtiIpnuOzA4Bp0bgQYSVZ3H8K0_Q)<br>
 + [**My Itch.io**](https://static.itch.io/images/logo-white-new.svg) <br>
 + [**My Game Design Documents Compilation**](https://app.milanote.com/1Nl8651I9p2Uda?p=VXErRkFthAc)<br>
++ [**My General Professional Website**](https://zakiagraraharja.wixsite.com/portfolio)<br>
 
 ### :fire: My Stats :
 
